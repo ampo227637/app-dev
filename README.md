@@ -2,6 +2,6 @@
 My first respiratory
 
 # I Robot
-### Artificial Intelligence
-### Human Trust
-### Future Technology
+- Artificial Intelligence
+- Human Trust
+- Future Technology
